@@ -1,2 +1,16 @@
-Hello there!
-This file is managed by Puppet.
+********************************************************************
+*                                                                  *
+* This system is for the use of authorized users only.  Usage of   *
+* this system may be monitored and recorded by system personnel.   *
+* Your IP, Login Time, Username has been noted and has been sent   *
+* to the system administrator. This service is restricted to       *
+* authorized users only. All activities on this system are logged. *
+*                                                                  *
+* Anyone using this system expressly consents to such monitoring   *
+* and is advised that if such monitoring reveals possible          *
+* evidence of criminal activity, system personnel may provide the  *
+* evidence from such monitoring to law enforcement officials.      *
+*                                                                  *
+********************************************************************
+
+

@@ -30,7 +30,6 @@ class issue (
   #
   file {
     [
-    '/etc/issue',
     '/etc/issue.net'
     ]:
     ensure => 'file',
